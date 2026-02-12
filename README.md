@@ -1,0 +1,1 @@
+A console-based Banking Information System developed using Core Java. This project implements user registration, login authentication, account creation, deposit, withdrawal, fund transfer, and transaction history using OOP principles and Java Collections.
